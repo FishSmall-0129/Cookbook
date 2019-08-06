@@ -1,2 +1,2 @@
 # Cookbook
-some recipes to share
+some recipes to share (with friends)
